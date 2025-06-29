@@ -1,3 +1,4 @@
+import pandas as pd
 import streamlit as st
 df = pd.read_csv("university_student_dashboard_data.csv")
 st.set_page_config(page_title="University Dashboard", layout="wide")

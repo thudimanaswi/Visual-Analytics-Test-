@@ -1,3 +1,5 @@
-pands
-stremlit
-plotly
+pandas
+streamlit
+pandas
+matplotlib
+seaborn
